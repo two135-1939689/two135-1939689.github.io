@@ -1,0 +1,394 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:nyt="http://www.nytimes.com/namespaces/rss/2.0" version="2.0">
+  <channel>
+    <title>NYT &gt; World &gt; Americas</title>
+    <link>https://www.nytimes.com/section/world/americas</link>
+    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/Americas.xml" rel="self" type="application/rss+xml"></atom:link>
+    <description></description>
+    <language>en-us</language>
+    <copyright>Copyright 2021 The New York Times Company</copyright>
+    <lastBuildDate>Sun, 04 Apr 2021 06:43:31 +0000</lastBuildDate>
+    <pubDate>Sun, 04 Apr 2021 06:43:31 +0000</pubDate>
+    <image>
+      <title>NYT &gt; World &gt; Americas</title>
+      <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
+      <link>https://www.nytimes.com/section/world/americas</link>
+    </image>
+    <item>
+      <title>Argentina’s President Tests Positive for Coronavirus Despite Vaccination</title>
+      <link>https://www.nytimes.com/2021/04/03/world/americas/argentina-president-coronavirus.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2021/04/03/world/americas/argentina-president-coronavirus.html</guid>
+      <atom:link href="https://www.nytimes.com/2021/04/03/world/americas/argentina-president-coronavirus.html" rel="standout"></atom:link>
+      <description>Alberto Fernández, who received early results on his 62nd birthday, was confirmed to have the virus in a later P.C.R. test. His symptoms were said to be mild.</description>
+      <dc:creator>Daniel Politi</dc:creator>
+      <pubDate>Sun, 04 Apr 2021 04:42:20 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Tests (Medical)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Vaccination and Immunization</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Fernandez, Alberto (1959- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Argentina</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2021/04/03/world/03argentina/03argentina-moth.jpg" width="151"></media:content>
+      <media:credit>Esteban Collazo/Argentinian Presidency, via Agence France-Presse — Getty Images</media:credit>
+      <media:description>President Alberto Fernández of Argentina receiving the Sputnik V Covid-19 vaccination in January.</media:description>
+    </item>
+    <item>
+      <title>‘A Really Good Moment’ for Canada in Washington</title>
+      <link>https://www.nytimes.com/2021/04/02/world/canada/canada-washington-relations.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2021/04/02/world/canada/canada-washington-relations.html</guid>
+      <atom:link href="https://www.nytimes.com/2021/04/02/world/canada/canada-washington-relations.html" rel="standout"></atom:link>
+      <description>The Canadian ambassador discusses the sweeping changes in relations between Canada and the United States under the Biden administration.</description>
+      <dc:creator>Ian Austen</dc:creator>
+      <pubDate>Fri, 02 Apr 2021 21:17:57 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Biden, Joseph R Jr</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Canada</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Toronto (Ontario)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+    </item>
+    <item>
+      <title>5,000 Flee as Venezuela Launches Largest Military Campaign in Decades</title>
+      <link>https://www.nytimes.com/2021/04/02/world/americas/venezuela-colombia-military-campaign.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2021/04/02/world/americas/venezuela-colombia-military-campaign.html</guid>
+      <atom:link href="https://www.nytimes.com/2021/04/02/world/americas/venezuela-colombia-military-campaign.html" rel="standout"></atom:link>
+      <description>The Venezuelan government has long tolerated armed groups trafficking drugs and contraband near its border with Colombia. Now it has lashed out at one of them, driving thousands of civilians into flight.</description>
+      <dc:creator>Julie Turkewitz</dc:creator>
+      <pubDate>Sat, 03 Apr 2021 07:14:58 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Human Rights and Human Rights Violations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Human Rights Watch</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">NTN24 (TV Network)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Revolutionary Armed Forces of Colombia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Colombia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Venezuela</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2021/04/02/world/02colombia/02colombia-moth.jpg" width="151"></media:content>
+      <media:credit>Fernando Vergara/Associated Press</media:credit>
+      <media:description>Venezuelans near the Arauca River, the border between Venezuela and Colombia, after crossing by boat into Arauquita, Colombia.</media:description>
+    </item>
+    <item>
+      <title>‘They Have No One’: At 88, a Transgender Icon Combats Loneliness Among Seniors</title>
+      <link>https://www.nytimes.com/2021/04/02/world/americas/mexico-transgender-community-center.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2021/04/02/world/americas/mexico-transgender-community-center.html</guid>
+      <atom:link href="https://www.nytimes.com/2021/04/02/world/americas/mexico-transgender-community-center.html" rel="standout"></atom:link>
+      <description>Samantha Flores, who created a community center in Mexico City for older L.G.B.T.Q. people that closed during the pandemic, is hoping to reopen it.</description>
+      <dc:creator>Oscar Lopez</dc:creator>
+      <pubDate>Fri, 02 Apr 2021 15:02:04 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Flores, Samantha (1932- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Transgender and Transsexuals</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Homosexuality and Bisexuality</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Discrimination</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elderly</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Loneliness</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Mexico City (Mexico)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Content Type: Personal Profile</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Mexico</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2021/03/26/world/26mexico-profile-flores/26mexico-profile-flores-moth.jpg" width="151"></media:content>
+      <media:credit>Marian Carrasquero for The New York Times</media:credit>
+      <media:description>Samantha Flores in the building where she has lived for 36 years in Mexico City.</media:description>
+    </item>
+    <item>
+      <title>‘Mommy, I Have Bad News’: For Young Migrants, Mexico Can Be the End of the Road</title>
+      <link>https://www.nytimes.com/2021/04/02/world/americas/migrant-children-Mexico.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2021/04/02/world/americas/migrant-children-Mexico.html</guid>
+      <atom:link href="https://www.nytimes.com/2021/04/02/world/americas/migrant-children-Mexico.html" rel="standout"></atom:link>
+      <description>Thousands of young migrants, most from Central America, are making their way to the border, many hoping to meet parents in the United States. But for those caught in Mexico, there is only near-certain deportation.</description>
+      <dc:creator>Maria Abi-Habib and Daniel Berehulak</dc:creator>
+      <pubDate>Sat, 03 Apr 2021 02:29:58 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Illegal Immigration</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Children and Childhood</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deportation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Immigration and Emigration</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Customs and Border Protection (US)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ciudad Juarez (Mexico)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Mexico</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Central America</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2021/03/29/world/00mexico-minors/00mexico-minors-moth.jpg" width="151"></media:content>
+      <media:description>A child in the courtyard of the Nohemí Álvarez Quillay facility, a migrant shelter for unaccompanied minors, run by the Mexican government in Ciudad Juárez.</media:description>
+    </item>
+    <item>
+      <title>As Coronavirus and Economic Woes Ravage Brazil, Bolsonaro Improvises and Confounds</title>
+      <link>https://www.nytimes.com/2021/03/31/world/americas/brazil-coronavirus-bolsonaro.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2021/03/31/world/americas/brazil-coronavirus-bolsonaro.html</guid>
+      <atom:link href="https://www.nytimes.com/2021/03/31/world/americas/brazil-coronavirus-bolsonaro.html" rel="standout"></atom:link>
+      <description>Critics see the recent behavior of Brazil’s president — polarizing in the best of times — as an unnerving sign of a flailing leader. His strategy, if there is one, is difficult to discern.</description>
+      <dc:creator>Ernesto Londoño and Letícia Casado</dc:creator>
+      <pubDate>Wed, 31 Mar 2021 23:26:15 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Brazil</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Bolsonaro, Jair (1955- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Impeachment</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Disease Rates</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Fatalities)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2021/03/31/world/31brazil/31brazil-moth.jpg" width="151"></media:content>
+      <media:credit>Joedson Alves/EPA, via Shutterstock</media:credit>
+      <media:description>President Jair Bolsonaro of Brazil during a news conference on Wednesday.</media:description>
+    </item>
+    <item>
+      <title>Brazil’s Armed Forces Chiefs Resign Abruptly Amid Cabinet Shake-Up</title>
+      <link>https://www.nytimes.com/2021/03/30/world/americas/brazil-bolsonaro-military-resignations.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2021/03/30/world/americas/brazil-bolsonaro-military-resignations.html</guid>
+      <atom:link href="https://www.nytimes.com/2021/03/30/world/americas/brazil-bolsonaro-military-resignations.html" rel="standout"></atom:link>
+      <description>The sudden departure of the military leaders came a day after President Jair Bolsonaro fired his defense minister and reshaped his cabinet.</description>
+      <dc:creator>Ernesto Londoño and Letícia Casado</dc:creator>
+      <pubDate>Wed, 31 Mar 2021 08:32:51 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Brazil</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Bolsonaro, Jair (1955- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Appointments and Executive Changes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2021/03/30/world/30brazil/30brazil-moth.jpg" width="151"></media:content>
+      <media:credit>Sergio Lima/Agence France-Presse — Getty Images</media:credit>
+      <media:description>Jair Bolsonaro, then president-elect, with  Antonio Carlos Moretti Bermudez, left, Ilques Barbosa Junior, second from left, Fernando Azevedo e Silva, second from right, and Edson Leal Pujol in 2018. General Azevedo e Silva, the defense minister, was fired Monday, and the three other military leaders resigned Tuesday.</media:description>
+    </item>
+    <item>
+      <title>A New Coronavirus Wave Hits Chile, Despite Vaccine Success</title>
+      <link>https://www.nytimes.com/2021/03/30/world/americas/chile-vaccination-cases-surge.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2021/03/30/world/americas/chile-vaccination-cases-surge.html</guid>
+      <atom:link href="https://www.nytimes.com/2021/03/30/world/americas/chile-vaccination-cases-surge.html" rel="standout"></atom:link>
+      <description>Experts say Chile’s government eased restrictions on travel, business and schools much too early, creating a false sense of confidence that the worst of the pandemic was over.</description>
+      <dc:creator>Pascale Bonnefoy and Ernesto Londoño</dc:creator>
+      <pubDate>Thu, 01 Apr 2021 14:07:42 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Vaccination and Immunization</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Disease Rates</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus Reopenings</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Pinera, Sebastian</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Chile</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2021/03/30/world/30virus-chile-promo/30virus-chile-02-moth.jpg" width="151"></media:content>
+      <media:credit>Cristobal Olivares for The New York Times</media:credit>
+      <media:description>Police officers operate vehicle checkpoints to limit movement during the latest lockdown.</media:description>
+    </item>
+    <item>
+      <title>Killing of Salvadoran Refugee by Police in Mexico Incites Furor</title>
+      <link>https://www.nytimes.com/2021/03/29/world/americas/mexico-police-kill-salvadoran-woman.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2021/03/29/world/americas/mexico-police-kill-salvadoran-woman.html</guid>
+      <atom:link href="https://www.nytimes.com/2021/03/29/world/americas/mexico-police-kill-salvadoran-woman.html" rel="standout"></atom:link>
+      <description>Videos echoing the death of George Floyd showed a police officer kneeling on the back of the woman, who died of a broken spine, just days before an international forum on gender equality began in Mexico.</description>
+      <dc:creator>Oscar Lopez</dc:creator>
+      <pubDate>Mon, 29 Mar 2021 23:33:17 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Mexico</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Police Brutality, Misconduct and Shootings</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">El Salvador</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Refugees and Displaced Persons</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Women&#39;s Rights</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Salazar Arriaza, Victoria Esperanza</category>
+    </item>
+    <item>
+      <title>Nearly 200 Baby Tortoises Are Seized at Galápagos Airport</title>
+      <link>https://www.nytimes.com/2021/03/29/climate/galapagos-tortoises-smuggling.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2021/03/29/climate/galapagos-tortoises-smuggling.html</guid>
+      <atom:link href="https://www.nytimes.com/2021/03/29/climate/galapagos-tortoises-smuggling.html" rel="standout"></atom:link>
+      <description>The tortoises were found on Sunday wrapped in plastic inside a red suitcase that was bound for mainland Ecuador. A police officer has been taken into custody, the authorities said.</description>
+      <dc:creator>Johnny Diaz</dc:creator>
+      <pubDate>Tue, 30 Mar 2021 17:13:22 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Turtles and Tortoises</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Airports</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Wildlife Trade and Poaching</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ecuador</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Galapagos Islands</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Guayaquil (Ecuador)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Galapagos Ecological Airport</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Smuggling</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Galapagos National Park (Ecuador)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2021/03/29/world/29xp-tortoises/29xp-tortoises-moth-v2.jpg" width="151"></media:content>
+      <media:credit>Aeropuerto Ecológico Galápagos, via Facebook</media:credit>
+      <media:description>The tortoises were found in a suitcase that was on its way to the port city of Guayaquil, Ecuador, during an inspection at the Galápagos Ecological Airport, the authorities said.</media:description>
+    </item>
+    <item>
+      <title>16 Global Design Concepts for an Unpredictable Future</title>
+      <link>https://www.nytimes.com/2021/03/28/arts/design/designers-global-challenges.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2021/03/28/arts/design/designers-global-challenges.html</guid>
+      <atom:link href="https://www.nytimes.com/2021/03/28/arts/design/designers-global-challenges.html" rel="standout"></atom:link>
+      <description>The challenges of the past year gave designers every reason to recede into the shadows, but creativity won’t be denied.</description>
+      <dc:creator>Julie Lasky, Lila Allen and Lauren Messman</dc:creator>
+      <pubDate>Mon, 29 Mar 2021 17:13:28 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Art</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Culture (Arts)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Architecture</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Design</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Textiles</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Building (Construction)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Sculpture</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Area Planning and Renewal</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Furniture</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Wood and Wood Products</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Sustainable Living</category>
+    </item>
+    <item>
+      <title>His Plane Crashed in the Amazon. Then Came the Hard Part.</title>
+      <link>https://www.nytimes.com/2021/03/28/world/americas/brazil-amazon.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2021/03/28/world/americas/brazil-amazon.html</guid>
+      <atom:link href="https://www.nytimes.com/2021/03/28/world/americas/brazil-amazon.html" rel="standout"></atom:link>
+      <description>A Brazilian pilot working for wildcat miners escaped death when his plane went down in a remote area. He walked through the jungle for 36 days before being rescued.</description>
+      <dc:creator>Manuela Andreoni</dc:creator>
+      <pubDate>Sun, 28 Mar 2021 22:09:12 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Aviation Accidents, Safety and Disasters</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Pilots</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Amazon Jungle</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Brazil</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Sena, Antonio</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2021/03/25/world/28brazil-pilot-promo/28brazil-pilot-promo-moth-v3.jpg" width="151"></media:content>
+      <media:credit>Victor Moriyama for The New York Times</media:credit>
+      <media:description>An illegal gold mine in Pará state.</media:description>
+    </item>
+    <item>
+      <title>Jimmy Gamonet de los Heros Dies at 63; Helped Ballet in Miami</title>
+      <link>https://www.nytimes.com/2021/03/27/obituaries/jimmy-gamonet-dead-covid.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2021/03/27/obituaries/jimmy-gamonet-dead-covid.html</guid>
+      <atom:link href="https://www.nytimes.com/2021/03/27/obituaries/jimmy-gamonet-dead-covid.html" rel="standout"></atom:link>
+      <description>He was Miami City Ballet’s resident choreographer before establishing his own company. He later returned to his native Peru to run the National Ballet. He died of Covid-19.</description>
+      <dc:creator>Brian Seibert</dc:creator>
+      <pubDate>Mon, 29 Mar 2021 17:43:22 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Gamonet, Jimmy (1957-2021)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Obituaries)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Dancing</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Miami City Ballet</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Lima (Peru)</category>
+    </item>
+    <item>
+      <title>A Collapse Foretold: How Brazil’s Covid-19 Outbreak Overwhelmed Hospitals</title>
+      <link>https://www.nytimes.com/2021/03/27/world/americas/virus-brazil-bolsonaro.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2021/03/27/world/americas/virus-brazil-bolsonaro.html</guid>
+      <atom:link href="https://www.nytimes.com/2021/03/27/world/americas/virus-brazil-bolsonaro.html" rel="standout"></atom:link>
+      <description>The virus has killed more than 300,000 people in Brazil, its spread aided by a highly contagious variant, political infighting and distrust of science.</description>
+      <dc:creator>Ernesto Londoño, Letícia Casado and Mauricio Lima</dc:creator>
+      <pubDate>Mon, 29 Mar 2021 01:36:36 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Brazil</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Bolsonaro, Jair (1955- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Disease Rates</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Vaccination and Immunization</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hydroxychloroquine (Drug)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Rumors and Misinformation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Conspiracy Theories</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hospitals</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Shortages</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Fatalities)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Quarantines</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Shutdowns (Institutional)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2021/03/28/world/28virus-brazil-collapse-print4/27virus-brazil-collapse-top-moth.jpg" width="151"></media:content>
+    </item>
+    <item>
+      <title>Children Trapped by Colombia’s War, Five Years After FARC Peace Deal</title>
+      <link>https://www.nytimes.com/2021/03/27/world/americas/colombia-children-war-FARC.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2021/03/27/world/americas/colombia-children-war-FARC.html</guid>
+      <atom:link href="https://www.nytimes.com/2021/03/27/world/americas/colombia-children-war-FARC.html" rel="standout"></atom:link>
+      <description>Despite a 2016 peace deal with the FARC, Colombia’s long internal conflict continues. Seldom has that been as evident as this month, when the government bombed a rebel camp full of young people.</description>
+      <dc:creator>Julie Turkewitz, Sofía Villamil and Federico Rios</dc:creator>
+      <pubDate>Sat, 27 Mar 2021 14:20:53 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Colombia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Revolutionary Armed Forces of Colombia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Child Soldiers</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Draft and Recruitment (Military)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Peace Process</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Duque, Ivan</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Puerto Cachicamo (Colombia)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Guayabero River (Colombia)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Rural Areas</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Civilian Casualties</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">War Crimes, Genocide and Crimes Against Humanity</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2021/03/26/world/26colombia-SUB/00colombia-02-moth.jpg" width="151"></media:content>
+      <media:description>Nicol, 11, mourns the death of her older sister, Yeimi Sof&amp;iacute;a Vega, 15. Their mother sobs next to her.</media:description>
+    </item>
+    <item>
+      <title>Winnipeg’s New Showcase and Meeting Place for Inuit Art and Artists</title>
+      <link>https://www.nytimes.com/2021/03/26/world/canada/Winnipeg-Art-Gallery-Inuit.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2021/03/26/world/canada/Winnipeg-Art-Gallery-Inuit.html</guid>
+      <atom:link href="https://www.nytimes.com/2021/03/26/world/canada/Winnipeg-Art-Gallery-Inuit.html" rel="standout"></atom:link>
+      <description>A new museum for the Winnipeg Art Gallery’s leading collection of Inuit art opens on Saturday in a project shaped by Inuit.</description>
+      <dc:creator>Ian Austen</dc:creator>
+      <pubDate>Fri, 26 Mar 2021 22:51:42 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Canada</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Winnipeg (Manitoba)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Art</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Indigenous People</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Museums</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2021/03/26/world/26canadaletter-gallery1/26canadaletter-gallery1-moth.jpg" width="151"></media:content>
+      <media:credit>Lindsay Reid, Winnipeg Art Gallery</media:credit>
+      <media:description>Qaumajuq, the new Inuit art center at the Winnipeg Art Gallery</media:description>
+    </item>
+    <item>
+      <title>9-Year-Old Migrant Girl Dies Trying to Cross Rio Grande Into U.S.</title>
+      <link>https://www.nytimes.com/2021/03/26/us/border-migrant-girl-death.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2021/03/26/us/border-migrant-girl-death.html</guid>
+      <atom:link href="https://www.nytimes.com/2021/03/26/us/border-migrant-girl-death.html" rel="standout"></atom:link>
+      <description>The girl was found unconscious on an island on the Mexican side of the river near the Texas border and could not be revived.</description>
+      <dc:creator>Miriam Jordan</dc:creator>
+      <pubDate>Fri, 26 Mar 2021 23:30:16 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Drownings</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Fatalities)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Illegal Immigration</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Immigration and Emigration</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Border Patrol (US)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Rio Grande River</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Mexico</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Texas</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Biden, Joseph R Jr</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2021/03/26/us/26BORDER-DEATH-1/merlin_185462454_d7a61133-5736-4828-a969-783164d8c4b0-moth.jpg" width="151"></media:content>
+      <media:credit>John Moore/Getty Images</media:credit>
+      <media:description>Migrants brave perilous river, ocean and desert crossings to reach the United States. </media:description>
+    </item>
+    <item>
+      <title>Canada Supreme Court Rules Federal Carbon Tax Is Constitutional</title>
+      <link>https://www.nytimes.com/2021/03/25/world/canada/canada-supreme-court-carbon-pricing.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2021/03/25/world/canada/canada-supreme-court-carbon-pricing.html</guid>
+      <atom:link href="https://www.nytimes.com/2021/03/25/world/canada/canada-supreme-court-carbon-pricing.html" rel="standout"></atom:link>
+      <description>In rejecting a request from some provinces to strike down national carbon pricing, the court declared that the measure meets an important national need.</description>
+      <dc:creator>Ian Austen</dc:creator>
+      <pubDate>Fri, 26 Mar 2021 08:07:17 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Greenhouse Gas Emissions</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Carbon Dioxide</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Fuel Emissions (Transportation)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Biden, Joseph R Jr</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trudeau, Justin</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Canada</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Alberta (Canada)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2021/04/21/world/21canada-carbon-1/21canada-carbon-1-moth-v2.jpg" width="151"></media:content>
+      <media:credit>Ben Nelms/Bloomberg</media:credit>
+      <media:description>Oil production at the Athabasca oil sands near Fort McMurray, Alberta.</media:description>
+    </item>
+    <item>
+      <title>A Go-It-Alone President Wants to Reshape Haiti. Some Are Skeptical.</title>
+      <link>https://www.nytimes.com/2021/03/25/world/americas/haiti-jovenel-moise-constitution.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2021/03/25/world/americas/haiti-jovenel-moise-constitution.html</guid>
+      <atom:link href="https://www.nytimes.com/2021/03/25/world/americas/haiti-jovenel-moise-constitution.html" rel="standout"></atom:link>
+      <description>Haiti, facing a prolonged crisis, is preparing for the biggest shake-up of government seen in decades with a constitutional referendum and national elections slated for this year.</description>
+      <dc:creator>Maria Abi-Habib</dc:creator>
+      <pubDate>Thu, 25 Mar 2021 19:43:30 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Moise, Jovenel (1968- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Haiti</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Constitutions</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Referendums</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2021/03/17/world/17Haiti-president1/17Haiti-president1-moth-v2.jpg" width="151"></media:content>
+      <media:credit>Dieu Nalio Chery/Associated Press</media:credit>
+      <media:description>President Jovenel Moïse of Haiti has embarked on the biggest political shake-up the crisis-ridden country has seen in decades.</media:description>
+    </item>
+    <item>
+      <title>Some Tourists Find Luck in the Caribbean with Covid-19 Vaccine</title>
+      <link>https://www.nytimes.com/2021/03/24/health/vaccine-tourism-virgin-islands.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2021/03/24/health/vaccine-tourism-virgin-islands.html</guid>
+      <atom:link href="https://www.nytimes.com/2021/03/24/health/vaccine-tourism-virgin-islands.html" rel="standout"></atom:link>
+      <description>Roughly 3 percent of vaccines in the U.S. Virgin Islands have gone to tourists, the governor said this week. “Nowhere else in the U.S. can you actually just walk in and get the vaccine,” he said.</description>
+      <dc:creator>Melinda Wenner Moyer</dc:creator>
+      <pubDate>Wed, 24 Mar 2021 16:30:30 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Vaccination and Immunization</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Travel and Vacations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Caribbean Area</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Virgin Islands (US)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">your-feed-healthcare</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2021/03/24/science/24VIRUS-VACCINE-TOURISM1/24VIRUS-VACCINE-TOURISM1-moth.jpg" width="151"></media:content>
+      <media:credit>Gabby Jones for The New York Times</media:credit>
+      <media:description>People disembarked from the ferry at Urman Victor Fredericks Marine Terminal in Red Hook, Saint Thomas, U.S. Virgin Islands, last month.</media:description>
+    </item>
+  </channel>
+</rss>
